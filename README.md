@@ -1,17 +1,9 @@
-# XiGuaTiYuDaShi
+#Skor Pioneer
 
-XiGuaTiYuDaShi is committed to promoting professional and high-quality racing sports equipment, so that people can efficiently buy the best racing sports equipment in daily life. At the same time, our app also introduces the rules and skills of various racing sports, so that you can have a better understanding of these racing sports and enjoy the happiness of sports.
+Skor Pioneer adalah APP untuk membeli peralatan anggar dan merekam skor olahraga，Ini didedikasikan untuk mempromosikan anggar sehingga orang dapat membeli peralatan olahraga pagar profesional secara efisien dan berkualitas tinggi dalam kehidupan sehari-hari mereka, dan dapat dengan mudah merekam pertandingan.
 
-Our app shows a full range of racing sports equipment, including outdoor running equipment, sports protective equipment, roller skating equipment, skiing equipment, skateboard equipment and other outdoor sports equipment. These categories of complete outdoor sports equipment can meet the user's selection and procurement.
+Aplikasi kami menampilkan rangkaian lengkap peralatan olahraga pagar, termasuk tas pedang, tas pedang, peralatan pelatihan anggar, alat pelindung olahraga, pakaian olahraga pagar, dan peralatan olahraga pagar lainnya. Jenis peralatan olahraga pagar yang lengkap ini dapat memuaskan pemilihan dan pembelian pengguna.
 
-Our app has classified these outdoor extreme sports equipment in great detail, which helps users to quickly find the outdoor sports equipment they want to buy.
+Aplikasi kami juga memiliki fungsi rekam skor langsung.Anda dapat merekam skor dan detail pertandingan langsung, merekam setiap pertandingan anggar yang Anda suka, dan membagikan hasil pertandingan.
 
-Our APP introduces each product in detail, so that you can fully understand these products and find your favorite racing sports equipment.
-
-Our app also has the commodity collection function. You can collect your favorite outdoor sports equipment into the collection list, so that you can browse and place orders next time.
-
-Our app also introduces various racing rules and techniques in detail, so that you can know more about these sports, do sports better and more professionally, and share these skills and knowledge with others.
-
-XiGuaTiYuDaShi with the most professional racing equipment to enable you to quickly master the sports skills!
-
-If you have any questions, please contact us as follows : lhtrqgwsp@sina.com
+Jika Anda memiliki pertanyaan, Anda dapat menghubungi kami dengan cara berikut:szy19630508@icloud.com
