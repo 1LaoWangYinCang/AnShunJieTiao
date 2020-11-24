@@ -1,9 +1,15 @@
-# Skor Pioneer
+# AnShunJieTiao
 
-Skor Pioneer adalah APP untuk membeli peralatan anggar dan merekam skor olahraga，Ini didedikasikan untuk mempromosikan anggar sehingga orang dapat membeli peralatan olahraga pagar profesional secara efisien dan berkualitas tinggi dalam kehidupan sehari-hari mereka, dan dapat dengan mudah merekam pertandingan.
+AnShunJieTiao can help people to record the borrowing and returning of accounts in their daily life, record the personal contact in their life, and add account planning to help people to arrange their accounts reasonably.
 
-Aplikasi kami menampilkan rangkaian lengkap peralatan olahraga pagar, termasuk tas pedang, tas pedang, peralatan pelatihan anggar, alat pelindung olahraga, pakaian olahraga pagar, dan peralatan olahraga pagar lainnya. Jenis peralatan olahraga pagar yang lengkap ini dapat memuaskan pemilihan dan pembelian pengguna.
+- Our APP can easily record the borrowing and paying accounts in daily life, which is a very convenient record management tool. It can record every payment anytime and anywhere, so as to avoid forgetting it over time.
 
-Aplikasi kami juga memiliki fungsi rekam skor langsung.Anda dapat merekam skor dan detail pertandingan langsung, merekam setiap pertandingan anggar yang Anda suka, dan membagikan hasil pertandingan.
+- Our APP can also mark important accounts and mark urgent and important accounts to remind ourselves to avoid forgetting them at any time.
 
-Jika Anda memiliki pertanyaan, Anda dapat menghubungi kami dengan cara berikut:szy19630508@icloud.com
+- Our APP also summarizes all the amounts borrowed and owed, so that you can have a clear understanding of your financial situation and make timely changes.
+
+- Our APP can also add account planning, so that we can reasonably plan our financial affairs according to our actual situation, and record the planning of every sum of money, which is reasonable and convenient for our life.
+
+Easy record, reasonable planning, peace of mind!
+
+Jika Anda memiliki pertanyaan, Anda dapat menghubungi kami dengan cara berikut:shop_street@icloud.com
