@@ -1,6 +1,6 @@
 # Songzhe Account Book
 
-QingYuJieTiao allows people in their daily life can easily record the loan and return of the accounts, record the life of human exchanges, at the same time can efficiently and high-quality appointment to explain the course of iou accounts, let you understand the nature of account transactions and legal knowledge, to avoid accounting disputes.
+Songzhe Account Book allows people in their daily life can easily record the loan and return of the accounts, record the life of human exchanges, at the same time can efficiently and high-quality appointment to explain the course of iou accounts, let you understand the nature of account transactions and legal knowledge, to avoid accounting disputes.
 
 Our APP can easily record iOU in our life, record every account transaction anytime and anywhere, so as to avoid forgetting over time.
 
